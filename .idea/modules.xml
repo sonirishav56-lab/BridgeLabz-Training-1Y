@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BridgeLabz-Training-1Y.iml" filepath="$PROJECT_DIR$/BridgeLabz-Training-1Y.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.gla.inheritance.example/com.gla.inheritance.example.iml" filepath="$PROJECT_DIR$/com.gla.inheritance.example/com.gla.inheritance.example.iml" />
+    </modules>
+  </component>
+</project>
